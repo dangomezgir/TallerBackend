@@ -18,7 +18,7 @@ class GameAnnouncer {
         echo "Intl: ".$character->getIntl()."</br>";
         echo "Agi: ".$character->getAgi()."</br>";
         echo "PDef: ".$character->getPDef()."</br>";
-        echo "MDef: ".$character->getMDef()."</br></br>";
+        echo "MDef: ".$character->getMDef()."</br> </br>";
     }
 
     public static function buffUsed($character,$skill)
