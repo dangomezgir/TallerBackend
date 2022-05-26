@@ -14,7 +14,7 @@ class GameAnnouncer {
         echo "HP Max: ".$character->getMaxHealtPoints()."</br>";
         echo "XP:".$character->getXp()."</br>";
         echo "Level: ".$character->getLevel()."</br>";
-        echo "Str: ".$character->getStr()."</br>";
+        echo "Str: ".$character->getStr()."  </br>";
         echo "Intl: ".$character->getIntl()."</br>";
         echo "Agi: ".$character->getAgi()."</br>";
         echo "PDef: ".$character->getPDef()."</br>";
